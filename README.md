@@ -63,7 +63,4 @@ animations: {
 
 
 
-\- Louis Fontaine -
 
-## 📜 License
-MIT License - Feel free to use this for your Valentine! 
